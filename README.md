@@ -7,7 +7,7 @@ I'm a FullStack Developer with 3 years of experience in blending the art of desi
 - 🤔 I’m looking for help with 💻 Web Development 📱 Mobile Development
 - 💬 Ask me about whatever you want, I'd like to help you.
 - 📫 How to reach me: 
-  - [Email](luigijose.gutierrez@gmail.com)
+  - [Email](mailto:luigijose.gutierrez@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/luigigutierrez23/)
   - [Twitter](https://twitter.com/luigigutierrezz)
 - ⚡ Fun fact: ⚽ Soccer 🎵 Music 🎮 Videogames
