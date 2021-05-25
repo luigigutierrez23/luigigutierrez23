@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there and Welcome 👋
 
-<!--
-**luigigutierrez23/luigigutierrez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a FullStack Developer with 3 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience, througth efficient web applications development proactive feature optimization and relentless debbuging very pasionate about code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Familia Bercomat as a Frontend Developer
+- 🌱 I’m currently learning #NetCore and #React ❤
+- 🤔 I’m looking for help with 💻 Web Development 📱 Mobile Development
+- 💬 Ask me about whatever you want, I'd like to help you.
+- 📫 How to reach me: 
+  - [Email](luigijose.gutierrez@gmail.com)
+  - [Linkedin](https://www.linkedin.com/in/luigigutierrez23/)
+  - [Twitter](https://twitter.com/luigigutierrezz)
+- ⚡ Fun fact: ⚽ Soccer 🎵 Music 🎮 Videogames
