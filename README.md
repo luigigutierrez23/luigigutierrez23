@@ -2,7 +2,7 @@
 
 I'm a FullStack Developer with 3 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience, througth efficient web applications development proactive feature optimization and relentless debbuging very pasionate about code.
 
-- 🔭 I’m currently working on Familia Bercomat as a Frontend Developer
+- 🔭 I’m currently working on Accenture as a Software Developer
 - 🌱 I’m currently learning #NetCore and #React ❤
 - 🤔 I’m looking for help with 💻 Web Development 📱 Mobile Development
 - 💬 Ask me about whatever you want, I'd like to help you.
